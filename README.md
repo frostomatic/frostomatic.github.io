@@ -1,2 +1,2 @@
 # frostomatic.github.io
-Frostomatic website
+sirtimf's blog
