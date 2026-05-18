@@ -8,7 +8,9 @@ url: "https://frostomatic.github.io"
 twitter_username: sirtimf
 github_username: frostomatic
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-feed
