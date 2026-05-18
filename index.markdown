@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome.
+Hello. I am Tim Frost and this is my web site.
