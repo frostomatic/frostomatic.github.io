@@ -12,7 +12,8 @@ My name is *Tim Frost*. I'm an animator and designer working mainly on kids' app
 I also co-created some mobile games, such as *Foxtrot!* and *Pixelgrams: Pixel Puzzles*. I worked as a Flash animator on *Moshi Monsters*. I am currently working with ***Teach Your Monster***, helping them make [apps and games for kids](https://www.teachyourmonster.org/).
 
 # My Links
-- [ITCH.IO](https://frostomatic.itch.io/)
+- [I HAVE A MAILING LIST!](https://frostomatic.eo.page/83t8p)
+- [Itch.io](https://frostomatic.itch.io/)
 - [LinkedIn](https://www.linkedin.com/in/timfrost/)
 - [Instagram](https://instagram.com/sirtimf)
 - [Twitter](https://x.com/sirtimf)
