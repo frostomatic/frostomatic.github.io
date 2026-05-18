@@ -23,7 +23,9 @@ I also co-created some mobile games, such as *Foxtrot!* and *Pixelgrams: Pixel P
 - [Tumblr](https://www.tumblr.com/frostomatic)
 
 # What is this blog about?
-It's a journal for personal projects, mostly games, but sometimes other stuff. Doodles, haiku. Anything that takes my fancy.
+It's a journal for personal projects, mostly games, but sometimes other stuff. Doodles, haiku. Anything that takes my fancy, like silly stuff:
+
+![A silly idle animation.](/images/idle.gif "Idle")
 
 Your pal,  
 ***Tim (aka sirtimf)***
