@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Hello. I am Tim Frost and this is my web site.
+I am __Tim Frost__ and this is my *BEE* to the *EL* to the *OH* to the *GEE.*
