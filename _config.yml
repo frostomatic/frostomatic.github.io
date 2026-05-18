@@ -1,13 +1,14 @@
 title: Frostomatic
 email: sirtimf@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   I am Tim Frost and this is my BEE to the EL to the OH to the GEE.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frostomatic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sirtimf
-github_username:  frostomatic
+baseurl: ""
+url: "https://frostomatic.github.io"
 
-# Build settings
+twitter_username: sirtimf
+github_username: frostomatic
+
 theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-feed
