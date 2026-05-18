@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 ![A yellow dog, wearing a hat, driving a red car.](/images/Frostomatic_Logo-128.png "Logo")
+
 My name is *Tim Frost*. I'm an animator and designer working mainly on kids' apps and games. My background is in Flash animation and games. That led to working on educational projects in the early 2000s, which then led to me studying for an MA in Digital Moving Image. From there I became an animator and designer on kid's tv shows. Some of them won awards, others became very financially successful. Which shows?
 
 *Peppa Pig, The Secret Show, Ben and Holly's Little Kingdom, and Hey Duggee.*
