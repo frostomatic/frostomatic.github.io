@@ -25,11 +25,11 @@
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to this first post of this blog. You should expect occasional news, drawings, pixels, and haiku. If you have stumbled on this post and would like to know more about me, then go to &lt;a href=&#34;http://localhost:1313/about.md&#34;&gt;About&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to this first post of this blog. You should expect occasional news, drawings, pixels, and haiku.&lt;/p&gt;
 &lt;p&gt;To get into the swing of things, here is a haiku about wanting to get back to a simpler, more enjoyable digital life:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Hello World,&amp;#34; he said
-Would you like to read my blog?
-Not again,&amp;#34; World thought
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;#34;Hello World,&amp;#34; he said
+&amp;#34;Would you like to read my blog?&amp;#34;
+&amp;#34;Oh no,&amp;#34; The World thought
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Your pal,&lt;br&gt;
 &lt;em&gt;&lt;strong&gt;Tim&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
