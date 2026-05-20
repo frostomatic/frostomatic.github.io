@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FROSTOMATIC</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on FROSTOMATIC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2026 Tim Frost.</copyright>
+    <lastBuildDate>Wed, 20 May 2026 13:50:25 +0100</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 20 May 2026 13:50:25 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;If you don&amp;#39;t like it
+You must change it or go back
+To writing a blog
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Welcome to this first post. From here on, everything will start with a haiku.&lt;/p&gt;
+&lt;p&gt;Your pal,&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Tim&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
